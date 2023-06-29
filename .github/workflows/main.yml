@@ -9,13 +9,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Use the secret
-        run: echo ${{ secrets.DOCKERHUB_SECRET }}
-
-    steps:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Use the secret
+        run: echo ${{ secrets.DOCKERHUB_SECRET }}
+
+  
       - name: Build container services
         run: |
           # Add your build commands here
