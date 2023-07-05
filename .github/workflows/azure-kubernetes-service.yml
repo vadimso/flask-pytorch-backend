@@ -11,7 +11,7 @@
 # To configure this workflow:
 #
 # 1. Set the following secrets in your repository (instructions for getting these can be found at https://docs.microsoft.com/en-us/azure/developer/github/connect-from-azure?tabs=azure-cli%2Clinux):
-#    - AZURE_CLIENT_ID
+#    - AZURE_CLIENT_ID 4a521820-de22-4a6c-bcef-c5c74c0be94d
 #    - AZURE_TENANT_ID 59771790-9d23-4f9a-b2c9-05fc55c82ae1
 #    - AZURE_SUBSCRIPTION_ID 0d3b54f0-945a-45a2-a1ee-b694c5e8c618
 #
