@@ -13,7 +13,7 @@
 # 1. Set the following secrets in your repository (instructions for getting these can be found at https://docs.microsoft.com/en-us/azure/developer/github/connect-from-azure?tabs=azure-cli%2Clinux):
 #    - AZURE_CLIENT_ID
 #    - AZURE_TENANT_ID
-#    - 0d3b54f0-945a-45a2-a1ee-b694c5e8c618
+#    - AZURE_SUBSCRIPTION_ID 0d3b54f0-945a-45a2-a1ee-b694c5e8c618
 #
 # 2. Set the following environment variables (or replace the values below):
 #    - AZURE_CONTAINER_REGISTRY (name of your container registry / ACR)
